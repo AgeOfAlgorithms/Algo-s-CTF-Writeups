@@ -1,11 +1,12 @@
 CLAUDE.md
 master_prompt
 master_prompt_redo
-active/*
+finished_active/*
+in_progress/*
 analysis/*
-.env
+.env*
 .*
 *.ovpn
 
 # specific files
-retired/Storm Over the Prairie/for400
+*/Storm Over the Prairie/for400

@@ -1,2 +1,0 @@
-x = 15607543889841794955
-Flag: poctf{uwsp_7h3_l16h7_4nd_7h3_d4rk}

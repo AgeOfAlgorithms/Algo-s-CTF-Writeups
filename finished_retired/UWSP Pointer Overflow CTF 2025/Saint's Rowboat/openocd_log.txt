@@ -1,0 +1,11 @@
+2025-09-04T15:39:51Z Info : STLINK V2J39S7 (API v2) VID:PID 0483:3748
+2025-09-04T15:39:51Z Info : Target voltage: 3.279784
+2025-09-04T15:39:51Z Info : stm32f4x.cpu: hardware has 6 breakpoints, 4 watchpoints
+2025-09-04T15:39:51Z Info : Device: STM32F407 (Rev Z)
+2025-09-04T15:39:51Z Info : RDP level: 1 (Readout protection active)
+2025-09-04T15:39:51Z Warn : Flash read-out blocked by RDP. Falling back to system memory bootloader.
+2025-09-04T15:39:51Z Info : Connected to system memory bootloader over UART1 @ 115200
+2025-09-04T15:39:51Z Info : Read UID (96-bit): 5a928ebd 3f5729b5 48b77e73
+2025-09-04T15:39:51Z Info : Read Option/OTP row 0: 32 bytes -> saved to otp_dump.bin
+2025-09-04T15:39:51Z Info : Saved 1 ciphertext artifact to secret.enc (AES-128-CBC, 16B IV)
+2025-09-04T15:39:51Z Note : Further flash reads denied under RDP level 1.

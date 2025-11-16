@@ -1,4 +1,0 @@
-ATTEMPTED (NOT ACCEPTED): poctf{uwsp_f0rm_1n73n710n5_purp0535}
-
-Status: UNSOLVED - flag rejected by submission platform
-Progress: ~95% complete - missing one component or incorrect assembly

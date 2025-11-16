@@ -1,0 +1,14 @@
+{
+  "title": "CRYP 200-1 \u2014 Two Wrongs Make a Right",
+  "cipher": "AES-CTR (conceptual; identical keystream reused)",
+  "nonce": "3e87041b3a79763bee20a894",
+  "notes": [
+    "Two ciphertexts were produced with the same key and nonce.",
+    "Recover both plaintexts by exploiting keystream reuse."
+  ],
+  "files": [
+    "c1.hex",
+    "c2.hex"
+  ],
+  "hint": "XOR the ciphertexts to remove the keystream and crib-drag."
+}
