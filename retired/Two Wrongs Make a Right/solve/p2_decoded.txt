@@ -1,0 +1,9 @@
+# chatlog.txt (redacted)
+[10:01:07] analyst: the bias lattice looks fine, we just need better side info
+[10:01:16] you: wrong challenge—this one is CTR, not ECDSA
+[10:01:33] analyst: oh right, the two-wrongs-make-a-right one?
+[10:02:00] you: yep; XOR the ciphertexts to get P1⊕P2, then crib-drag common English
+[10:02:25] system: helpful hint — look for an English header like "Subject:"
+[10:02:59] you: and the flag… yeah it’s in here somewhere: poctf{uwsp_7h15_fl46_15_4ll_5w34r_w0rd5}
+[10:03:21] analyst: lowercase, braces, underscores… classic
+                                

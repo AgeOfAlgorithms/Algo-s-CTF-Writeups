@@ -1,4 +1,8 @@
 CLAUDE.md
 master_prompt
 master_prompt_redo
+active/*
+analysis/*
 .env
+.*
+*.ovpn
