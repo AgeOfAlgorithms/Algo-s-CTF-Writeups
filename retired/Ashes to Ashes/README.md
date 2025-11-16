@@ -2,7 +2,7 @@
 Ashes to Ashes
 
 ## Platform
-UWSP Pointer Overflow CTFxx 2025
+UWSP Pointer Overflow CTF 2025
 
 ## Category
 Crypto

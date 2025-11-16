@@ -11,7 +11,7 @@ Exploit
 hard
 
 ## Challenge Description
-xxxA tiny echo service installs a strict seccomp allowlist that kills most syscalls. No open*, no execve, no mprotect. That said - there's still a bit to work with.
+A tiny echo service installs a strict seccomp allowlist that kills most syscalls. No open*, no execve, no mprotect. That said - there's still a bit to work with.
 
 Goal: print the contents of the flag to stdout.
 

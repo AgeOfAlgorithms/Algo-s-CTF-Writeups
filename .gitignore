@@ -6,3 +6,6 @@ analysis/*
 .env
 .*
 *.ovpn
+
+# specific files
+retired/Storm Over the Prairie/for400
